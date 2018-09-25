@@ -26,4 +26,9 @@ sudo make install
 sudo ln -s /usr/local/etc/bash_completion.d/singularity /etc/profile.d/singularity.sh
 ```
 
+## Descargar y ejecutar el contenedor
 
+```bash
+singularity pull --name lexnet.simg shub://pescobar/lexnet-linux
+./lexnet.simg
+```
