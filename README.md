@@ -1,4 +1,6 @@
-# lexnet-linux
+# ESTE CONTENEDOR NO FUNCIONA CORRECTAMENTE
+
+## lexnet-linux
 
 Contenedor [Singularity](https://www.sylabs.io/) con Firefox + Java configurado para acceder a LexNET.
 
